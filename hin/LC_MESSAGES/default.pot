@@ -1,14 +1,14 @@
 # LANGUAGE translation of CakePHP Application
-# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Licensced under MIT Type Licensce 2013 Shashank Duhan <Sha2nk@me.com>
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"POT-Creation-Date: 2013-03-27 21:22-0600\n"
+"POT-Creation-Date: 2013-04-3 00:25-0600\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
-"Last-Translator: NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Last-Translator: Shashank Duhan <sha2nk@me.com>\n"
+"Language-Team: Hindi <sha2nk@me.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -36,23 +36,23 @@ msgstr ""
 
 #: Controller/BadgesController.php:35;76;107;133
 msgid "Invalid badge"
-msgstr ""
+msgstr "अमानये पदक"
 
 #: Controller/BadgesController.php:90;111
 msgid "The badge has been saved"
-msgstr ""
+msgstr "पदक संचित हो गया है ।"
 
 #: Controller/BadgesController.php:93;114
 msgid "The badge could not be saved. Please, try again."
-msgstr ""
+msgstr "पदक संचित नहीं हो सका, कृप्या पुनह प्रयास करें । "
 
 #: Controller/BadgesController.php:136
 msgid "Badge deleted"
-msgstr ""
+msgstr "पदक मिट गया । "
 
 #: Controller/BadgesController.php:139
 msgid "Badge was not deleted"
-msgstr ""
+msgstr "पदक नहीं मिट पाया ।"
 
 #: Controller/BlendsController.php:198;1634;1658;1688
 msgid "Invalid blend"
