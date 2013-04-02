@@ -60,7 +60,7 @@ msgstr ""
 
 #: Controller/BlendsController.php:519
 msgid "Thank you! Your new blend was saved and is now publicly visible!"
-msgstr ""
+msgstr "धन्यवाद ! आपका नया ब्लेंड (blend) संचित हो गया है और हर कोई उसे देख सकता है । "
 
 #: Controller/BlendsController.php:521
 msgid "There was an error saving your blend as published, please report you saw this error!"
@@ -100,11 +100,11 @@ msgstr ""
 
 #: Controller/BlendsController.php:1155
 msgid "Downloading"
-msgstr ""
+msgstr "डाउनलोड हो रहा है ।"
 
 #: Controller/BlendsController.php:1157
 msgid "This blend is licensed"
-msgstr ""
+msgstr "क्या आपको यह अनुज्ञा पत्र (license) मंजूर है ?"
 
 #: Controller/BlendsController.php:1159
 msgid "Do you agree with this license"
@@ -116,7 +116,7 @@ msgstr ""
 
 #: Controller/BlendsController.php:1165
 msgid "I accept the license. Start file download, please"
-msgstr ""
+msgstr "मुझे यह अनुज्ञा पत्र (license)  मंजूर है , कृपया डाउनलोड सुरु करें ।"
 
 #: Controller/BlendsController.php:1165
 msgid "Yes. Download now!"
