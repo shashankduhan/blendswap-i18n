@@ -133,7 +133,7 @@ msgstr "सथगित करें"
 
 #: Controller/BlendsController.php:1176
 msgid "You downloaded this blend less than 24 hours ago, if your first attempt failed you still have %d hours and %d minutes to retry without losing extra bandwidth"
-msgstr ""
+msgstr "आपने इस ब्लेंड को 24 घंटों से पहले डाउनलोड किया था, अगर आपका पहला प्रयास विफल रहा तो आपके पास अब भी %d घंटे और %d मिनट है दोबारा बिना डाउनलोडिंग राशि गवाए प्रयास करने के लिए ।"
 
 #: Controller/BlendsController.php:1180
 msgid "If your download fails you have 24 hours to try again with no extra bandwidth subtracted from your monthly allocation!"
