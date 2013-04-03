@@ -145,11 +145,11 @@ msgstr ""
 
 #: Controller/BlendsController.php:1188
 msgid "Please %s and try again."
-msgstr ""
+msgstr "कृपया %s और दोबारा प्रयास करें ।"
 
 #: Controller/BlendsController.php:1188
 msgid "log in"
-msgstr ""
+msgstr "लोग इन"
 
 #: Controller/BlendsController.php:1208;1209
 msgid "Creative Commons Public Domain Mark 1.0"
@@ -1293,13 +1293,13 @@ msgstr ""
 #: View/Blends/add.ctp:43
 #: View/Blends/edit.ctp:9
 msgid "Blend Name"
-msgstr ""
+msgstr "ब्लेंड का नाम"
 
 #: View/Blends/add.ctp:44
 #: View/Blends/edit.ctp:10
 #: View/Options/admin_view.ctp:19
 msgid "Description"
-msgstr ""
+msgstr "विवरण"
 
 #: View/Blends/add.ctp:44
 #: View/Blends/edit.ctp:10
@@ -1309,56 +1309,56 @@ msgstr ""
 #: View/Blends/add.ctp:45
 #: View/Blends/edit.ctp:11
 msgid "3D Preview URL"
-msgstr ""
+msgstr "3D पूर्वावलोकन करने का यूआरएल (URL)"
 
 #: View/Blends/add.ctp:45
 #: View/Blends/edit.ctp:11
 msgid "Optional"
-msgstr ""
+msgstr "वैकल्पिक"
 
 #: View/Blends/add.ctp:45
 #: View/Blends/edit.ctp:11
 msgid "Supports any %s or %s"
-msgstr ""
+msgstr "किसी भी %s या %s को चला सकने के काबिल है ।"
 
 #: View/Blends/add.ctp:46
 #: View/Elements/navs/taxonomies.ctp:36
 #: View/Questions/index.ctp:33
 #: View/Questions/view.ctp:17
 msgid "Tags"
-msgstr ""
+msgstr "टैग"
 
 #: View/Blends/add.ctp:46
 msgid "Separated by commas"
-msgstr ""
+msgstr "अल्पविराम के द्वारा छांटें"
 
 #: View/Blends/add.ctp:50
 #: View/Blends/admin_view.ctp:49
 #: View/Blends/edit.ctp:16
 msgid "Blender Version"
-msgstr ""
+msgstr "ब्लेंडर (blender) संस्करण"
 
 #: View/Blends/add.ctp:51
 msgid "Choose the blender version this blend was created with"
-msgstr ""
+msgstr "उस ब्लेंडर (blender) संस्करण को छांटें, जिस से इसे बनाया गया है ।"
 
 #: View/Blends/add.ctp:71
 #: View/Blends/edit.ctp:38
 msgid "Fan Art"
-msgstr ""
+msgstr "प्रशंसक कला"
 
 #: View/Blends/add.ctp:72
 #: View/Blends/edit.ctp:39
 msgid "Check yes if your blend features third party company logos, TV or movie characters"
-msgstr ""
+msgstr "हाँ छांटें अगर इस ब्लेंड में किसी तृतीय पक्ष की कंपनी का चिन्ह, फिल्म या टीवी के पात्र हैं"
 
 #: View/Blends/add.ctp:74
 msgid "No"
-msgstr ""
+msgstr "नहीं"
 
 #: View/Blends/add.ctp:74
 msgid "Yes"
-msgstr ""
+msgstr "हाँ"
 
 #: View/Blends/add.ctp:80
 msgid "Learn more about %s licenses and how they affect you"
