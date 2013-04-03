@@ -56,7 +56,7 @@ msgstr "पदक नहीं मिट पाया ।"
 
 #: Controller/BlendsController.php:198;1634;1658;1688
 msgid "Invalid blend"
-msgstr ""
+msgstr "अमानये ब्लेंड (blend)"
 
 #: Controller/BlendsController.php:519
 msgid "Thank you! Your new blend was saved and is now publicly visible!"
@@ -64,39 +64,39 @@ msgstr "धन्यवाद ! आपका नया ब्लेंड (blend
 
 #: Controller/BlendsController.php:521
 msgid "There was an error saving your blend as published, please report you saw this error!"
-msgstr ""
+msgstr "आपके ब्लेंड (blend) को प्रकाशित करते समय कुछ दिकत हो गयी , कृपया इस बात को ऊपर ‘मदद’ के बटन से हम तक पहुंचाएं ।"
 
 #: Controller/BlendsController.php:525
 msgid "Your new blend was saved and is now waiting moderation! Please be patient for an adminn to check your file."
-msgstr ""
+msgstr "आपका ब्लेंड (blend) संचित हो गया है और अब जाँच की प्रक्रिया में है, कृपया संयम रखें ।"
 
 #: Controller/BlendsController.php:529
 msgid "You blend was saved to the database, but one of the files failed to upload, please fix below the file type marked in red!"
-msgstr ""
+msgstr "आपका ब्लेंड (blend) संचित हो गया है, मगर एक फाइल (file) संचित नहीं हो सकी, लाल रंग से चिन्हित फाइल को कृपया जांचे ।"
 
 #: Controller/BlendsController.php:534
 msgid "The blend could not be saved. Please ckeck any errors below and try again. Don't forget to re-select the files."
-msgstr ""
+msgstr "आपका ब्लेंड (blend) संचित नहीं हो सका, कृपया नीचे परेशानी के बारे में जांचे और दोबारा परयास करें, फाइलों को दोबारा छांटना न भूलें ।"
 
 #: Controller/BlendsController.php:603
 msgid "The requested blend does not exist."
-msgstr ""
+msgstr "जिस ब्लेंड (blend) को आपने माँगा था, वह मोजूद नहीं है ।"
 
 #: Controller/BlendsController.php:643;1662
 msgid "The blend has been saved"
-msgstr ""
+msgstr "आपका ब्लेंड (blend) संचित हो गया है ।"
 
 #: Controller/BlendsController.php:645
 msgid "The blend has been saved, but there was an error while updating the license file, please report that you saw this message."
-msgstr ""
+msgstr "आपका ब्लेंड (blend) संचित हो गया है, मगर अनुज्ञा पत्र को बदलते समय कुछ दिकत हो गयी, कृपया इस बात को ऊपर ‘मदद’ के बटन से हम तक पहुंचाएं ।"
 
 #: Controller/BlendsController.php:648
 msgid "ERRORS! Please check any red messages below and try again."
-msgstr ""
+msgstr "दिकत…!! कृपया निचे लाल रंग से चिन्हित सन्देश को नीचे जांचे और दोबारा पर्यास करें ।"
 
 #: Controller/BlendsController.php:1123
 msgid "The blend you requested does not exist"
-msgstr ""
+msgstr "जिस ब्लेंड (blend) को आपने माँगा था, वह मोजूद नहीं है ।"
 
 #: Controller/BlendsController.php:1155
 msgid "Downloading"
@@ -104,11 +104,11 @@ msgstr "डाउनलोड हो रहा है ।"
 
 #: Controller/BlendsController.php:1157
 msgid "This blend is licensed"
-msgstr "क्या आपको यह अनुज्ञा पत्र (license) मंजूर है ?"
+msgstr "इस ब्लेंड (blend) का अनुज्ञा पत्र (license) है "
 
 #: Controller/BlendsController.php:1159
 msgid "Do you agree with this license"
-msgstr ""
+msgstr "क्या आपको यह अनुज्ञा पत्र (license) मंजूर है ?"
 
 #: Controller/BlendsController.php:1160
 msgid "and the limitations imposed by the Fan Art marking"
@@ -120,16 +120,16 @@ msgstr "मुझे यह अनुज्ञा पत्र (license)  मं
 
 #: Controller/BlendsController.php:1165
 msgid "Yes. Download now!"
-msgstr ""
+msgstr "हाँ, अभी डाउनलोड आरम्भ करें ।"
 
 #: Controller/BlendsController.php:1166
 msgid "Cancel download"
-msgstr ""
+msgstr "डाउनलोड को बंध करें ।"
 
 #: Controller/BlendsController.php:1166
 #: View/Blends/edit.ctp:92
 msgid "Cancel"
-msgstr ""
+msgstr "सथगित करें"
 
 #: Controller/BlendsController.php:1176
 msgid "You downloaded this blend less than 24 hours ago, if your first attempt failed you still have %d hours and %d minutes to retry without losing extra bandwidth"
